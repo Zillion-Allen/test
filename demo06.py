@@ -67,3 +67,5 @@ fun06(a=1, b=2)
 # 作业:调用fun07。
 def fun07(a, b, *args, c, d, **kwargs):
     pass
+
+# joy版本就该点东西，做测试
