@@ -32,3 +32,4 @@ fun01(**dict01)
 # 测试上传远程仓库
 # git push
 print("这是测试修改内容")
+print('fetch 拉取代码')
