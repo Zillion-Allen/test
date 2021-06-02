@@ -33,3 +33,6 @@ fun01(**dict01)
 # git push
 print("这是测试修改内容")
 print('fetch 拉取代码')
+
+# 测试删除功能
+
